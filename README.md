@@ -2,6 +2,8 @@
 
 Objective: Build an app that is functionally similar to <https://personal-portfolio.freecodecamp.rocks>
 
+Final Project: <https://fcc-personal-portfolio--lydia-stephenson.repl.co/>
+
 ## User Stories:
 
 1. Your portfolio should have a welcome section with an id of welcome-section
